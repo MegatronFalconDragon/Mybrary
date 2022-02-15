@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "expressthing",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
